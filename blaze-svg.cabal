@@ -9,7 +9,7 @@ maintainer:          diagrams-discuss@googlegroups.com
 Bug-reports:         http://github.com/diagrams/blaze-svg/issues
 category:            Graphics
 build-type:          Simple
-cabal-version:       >=1.8
+cabal-version:       >=1.18
 description:
   A blazingly fast SVG combinator library for the Haskell
   programming language. The "Text.Blaze.SVG" module is a good
