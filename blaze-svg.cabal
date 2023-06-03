@@ -24,12 +24,15 @@ description:
     but still it gives a good overview on how to use the  combinators in
     "Text.Blaze.Svg11" and "Text.Blaze.Svg11.Attributes":
     <http://jaspervdj.be/blaze/tutorial.html>.
+tested-with: GHC ==9.6.1 || ==9.4.5 || ==9.2.7 || ==9.0.2 || ==8.10.7
 
 Extra-source-files:
   src/Util/Sanitize.hs
   src/Util/GenerateSvgCombinators.hs
   examples/*.hs
+extra-doc-files:
   CHANGES.md
+  README.md
 
 Library
   Hs-Source-Dirs: src
