@@ -1,5 +1,3 @@
-[![Build Status](https://secure.travis-ci.org/deepakjois/blaze-svg.png)](http://travis-ci.org/deepakjois/blaze-svg)
-
 _blaze-svg_ uses [blaze-markup] to provide a SVG combinator library. _blaze-markup_
 is a fast combinator library which was derived from [blaze-html].
 
@@ -10,7 +8,7 @@ is a fast combinator library which was derived from [blaze-html].
 
 Look at the examples in the [Examples] folder.
 
-[Examples]: https://github.com/deepakjois/blaze-svg/tree/master/examples/
+[Examples]: https://github.com/diagrams/blaze-svg/tree/master/examples/
 
 ```haskell
 {-# LANGUAGE OverloadedStrings #-}
