@@ -1,3 +1,11 @@
+0.3.7 (6 June 2023)
+-------------------
+
+* Change maintainer to `diagrams` organization
+* Bug fix: make `filter` node a parent rather than a leaf (thanks to
+  @jpnp)
+* Update and test to work with GHC 9.6
+
 0.3.6.1 (13 March 2017)
 -----------------------
 
