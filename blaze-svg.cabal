@@ -17,7 +17,7 @@ description:
   .
   Other documentation:
   .
-  * Programs in the /examples/ folder of this project: <https://github.com/deepakjois/blaze-svg/tree/master/examples/>
+  * Programs in the /examples/ folder of this project: <https://github.com/diagrams/blaze-svg/tree/master/examples/>
   .
   * Jasper Van Der Jeugt has written a tutorial for /blaze-html/,
     which is a sister library of /blaze-svg/. It may not be directly relevant,
