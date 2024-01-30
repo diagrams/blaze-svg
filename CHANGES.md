@@ -6,6 +6,8 @@
   @jpnp)
 * Update and test to work with GHC 9.6
 
+- r1 (30 Jan 2024): allow `base-4.19`, test on GHC 9.8
+
 0.3.6.1 (13 March 2017)
 -----------------------
 
