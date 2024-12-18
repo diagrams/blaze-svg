@@ -8,6 +8,7 @@
 
 - r1 (30 Jan 2024): allow `base-4.19`, test on GHC 9.8
 - r2 (28 Aug 2024): allow `base-4.20`, test on GHC 9.10
+- r3 (18 Dec 2024): allow `base-4.21`, test on GHC 9.12
 
 0.3.6.1 (13 March 2017)
 -----------------------
